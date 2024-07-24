@@ -1,3 +1,23 @@
 .container {
   border: solid 1px black;
 }
+
+.row {
+  border: solid 1px red;
+}
+
+.col {
+  border: solid 1px green;
+}
+
+.font-size1 {
+  font-size: 100px;
+}
+
+.font-size2 {
+  font-size: 50px;
+}
+
+.font-size3 {
+  font-size: 20px;
+}
