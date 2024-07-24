@@ -2,15 +2,29 @@
   border: solid 3px black;
 }
 
+/*  BORDI PER VISUALIZZARE
+E COMPRENDERE MEGLIO LA POSIZIONE
+E GRANDEZZA DELLE ROW E COL */
 .row {
   border: solid 3px red;
 }
-
 .col-12 {
   border: solid 3px green;
 }
 
 .col-7 {
+  border: solid 3px green;
+}
+
+.col-6 {
+  border: solid 3px green;
+}
+
+.col-8 {
+  border: solid 3px green;
+}
+
+.col-4 {
   border: solid 3px green;
 }
 
