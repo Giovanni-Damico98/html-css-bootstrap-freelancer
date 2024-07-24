@@ -1,13 +1,17 @@
 .container {
-  border: solid 1px black;
+  border: solid 3px black;
 }
 
 .row {
-  border: solid 1px red;
+  border: solid 3px red;
 }
 
-.col {
-  border: solid 1px green;
+.col-12 {
+  border: solid 3px green;
+}
+
+.col-7 {
+  border: solid 3px green;
 }
 
 .font-size1 {

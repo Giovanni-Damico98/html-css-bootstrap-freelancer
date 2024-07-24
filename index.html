@@ -13,10 +13,15 @@
     />
   </head>
   <body>
-    <div class="container-fluid first-section">
+    <div class="container-fluid first-section d-flex">
       <div class="row">
-        <div class="col-12 bg-primary font-size3 font-size3">
+        <div class="col-6 bg-primary font-size3 font-size3">
           START BOOTSTRAP
+        </div>
+        <div
+          class="col-6 bg-primary font-size3 font-size3 d-flex justify-content-end"
+        >
+          MENU
         </div>
         <div class="col bg-primary-subtle d-flex justify-content-center">
           <div class="font-size1">immagine</div>
@@ -85,6 +90,27 @@
       </div>
     </div>
 
-
+    <div class="container-fluid third-section bg-primary">
+      <div class="row d-flex justify-content-center">
+        <div
+          class="col-12 bg-dark-subtle text-center font-size3 border-secondary"
+        >
+          CONTACT ME
+        </div>
+        <div class="col-12 bg-body-secondary text-center font-size3">STAR</div>
+        <div class="col-7 font-size3">NAME</div>
+        <div class="col-7 font-size3">EMAIL-ADDRESS</div>
+        <div class="col-7 font-size3">PHONE NUMBER</div>
+        <div class="col-7 font-size3">
+          <div class="mb-2">MESSAGE</div>
+          <textarea
+            name="textarea"
+            id="textarea"
+            class="custom-textarea"
+          ></textarea>
+        </div>
+        <div class="col-7 font-size3"><button>button</button></div>
+      </div>
+    </div>
   </body>
 </html>
