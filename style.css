@@ -83,7 +83,7 @@ E GRANDEZZA DELLE ROW E COL */
   align-self: center;
   height: 4px;
   background-color: white;
-  width: 7%;
+  width: 10%;
 }
 
 /* SECOND SECTION */
@@ -99,4 +99,10 @@ E GRANDEZZA DELLE ROW E COL */
 .second-section img {
   width: 100%;
   border-radius: 5%;
+}
+
+/* THIRD SECTION */
+button {
+  border: solid 2px white;
+  border-radius: 5px !important;
 }
