@@ -2,6 +2,10 @@
   border: solid 3px black;
 }
 
+body {
+  background: black;
+}
+
 /*  BORDI PER VISUALIZZARE
 E COMPRENDERE MEGLIO LA POSIZIONE
 E GRANDEZZA DELLE ROW E COL */
