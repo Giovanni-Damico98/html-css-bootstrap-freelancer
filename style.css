@@ -92,7 +92,8 @@ E GRANDEZZA DELLE ROW E COL */
   color: #333333;
 }
 
-.second-section .star-line {
+.second-section .star-line,
+.fourth-section .star-line {
   background-color: #2c3e50;
 }
 
@@ -105,4 +106,17 @@ E GRANDEZZA DELLE ROW E COL */
 button {
   border: solid 2px white;
   border-radius: 5px !important;
+}
+
+/* FIFTH SECTION */
+.bg-fifth-section {
+  background-color: #3a546d;
+}
+
+.info {
+  height: 150px;
+}
+
+.copyright {
+  height: 75px;
 }
